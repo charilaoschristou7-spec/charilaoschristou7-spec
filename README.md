@@ -4,7 +4,7 @@ About Me
 
 💻 Interested in Software Development
 
-🌱 Currently learning  Git and Linux
+🌱 Currently learning Python, Git and Linux
 
 <p>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
